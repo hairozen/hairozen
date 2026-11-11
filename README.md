@@ -19,6 +19,10 @@ I co-created **[Boundary-Bench](https://boundarybench.com/)** to study coding ag
 | Skill evaluations | Does a skill actually help agents? |
 | Agent memory & model routing | What should an agent remember, and which model belongs at each step? |
 
+### Small tools I build
+
+I like breaking work into manageable tasks and keeping track of what needs doing. I built [Gmail Task Indicator](https://chromewebstore.google.com/detail/gmail-task-indicator/lcboldikdlpelkahmfhogpdpiagbefbk), a Chrome extension that adds blue checkmarks to Gmail threads linked to Google Tasks, so email follow-ups are easier to spot.
+
 ### Research
 
 - **[Permission Denied: Policy-Graded Evaluation of Coding Agents in Hardened Environments](https://arxiv.org/abs/2608.02670)** · arXiv, 2026<br>
